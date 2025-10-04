@@ -40,8 +40,8 @@
     "champion": {
       "lance": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/JOHTO/CHAMPION/johto_champion_lance.json"
     }
-  }
-    "hoenn": {
+  },
+  "hoenn": {
     "leaders": {
       "hoenn_petra": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_petra.json",
       "hoenn_rudi": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_rudi.json",
@@ -55,7 +55,7 @@
     "elite_four": {
       "hoenn_league_fosco": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_fosco.json",
       "hoenn_league_ester": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_ester.json",
-      "hoenn_league_frida": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_ester.json",
+      "hoenn_league_frida": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_frida.json",
       "hoenn_league_drake": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_drake.json"
     },
     "champion": {
