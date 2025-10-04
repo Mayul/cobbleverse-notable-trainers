@@ -32,7 +32,7 @@
       "sandra": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/JOHTO/LEADERS/johto_sandra.json"
     },
     "elite_four": {
-      "will": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/JOHTO/ELITE%204/johto_league_will.json",
+      "pino": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/JOHTO/ELITE%204/johto_league_pino.json",
       "koga": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/JOHTO/ELITE%204/johto_league_koga.json",
       "bruno": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/JOHTO/ELITE%204/johto_league_bruno.json",
       "karen": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/JOHTO/ELITE%204/johto_league_karen.json"
@@ -44,18 +44,18 @@
     "hoenn": {
     "leaders": {
       "hoenn_petra": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_petra.json",
-      "hoenn_rudy": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_rudy.json",
-      "hoenn_voltner": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_voltner.json",
+      "hoenn_rudi": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_rudi.json",
+      "hoenn_walter": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_walter.json",
       "hoenn_fiammetta": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_fiammetta.json",
       "hoenn_norman": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_norman.json",
       "hoenn_alice": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_alice.json",
-      "hoenn_tino_liza": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_tino_liza.json",
+      "hoenn_tell": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_tell.json",
       "hoenn_adriano": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/LEADERS/hoenn_adriano.json"
     },
     "elite_four": {
-      "hoenn_league_sidney": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_sidney.json",
       "hoenn_league_fosco": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_fosco.json",
-      "hoenn_league_glacia": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_glacia.json",
+      "hoenn_league_ester": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_ester.json",
+      "hoenn_league_frida": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_ester.json",
       "hoenn_league_drake": "https://raw.githubusercontent.com/Mayul/cobbleverse-notable-trainers/refs/heads/main/COBBLEVERSE%20NOTABLE%20TRAINERS/HOENN/ELITE%204/hoenn_league_drake.json"
     },
     "champion": {
