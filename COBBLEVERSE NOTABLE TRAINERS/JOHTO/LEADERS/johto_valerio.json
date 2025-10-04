@@ -1,0 +1,128 @@
+{
+  "name": "Valerio",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 1
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "hoothoot",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "naughty",
+      "ability": "insomnia",
+      "moveset": [
+        "airslash",
+        "psychic",
+        "pluck",
+        "steelwing"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spe": 80,
+        "atk": 80
+      },
+      "heldItem": "oran_berry"
+    },
+    {
+      "species": "pidgeotto",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "brave",
+      "ability": "keeneye",
+      "moveset": [
+        "aerialace",
+        "quickattack",
+        "pluck",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spe": 100,
+        "atk": 100
+      },
+      "heldItem": "oran_berry"
+    },
+    {
+      "species": "corvisquire",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "careful",
+      "ability": "unnerve",
+      "moveset": [
+        "pluck",
+        "roost",
+        "rocksmash",
+        "honeclaws"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spe": 80,
+        "atk": 80
+      },
+      "heldItem": "oran_berry"
+    },
+    {
+      "species": "gligar",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "careful",
+      "ability": "hypercutter",
+      "moveset": [
+        "tailwhip",
+        "bulldoze",
+        "dig",
+        "acrobatics"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spe": 80,
+        "atk": 80
+      },
+      "heldItem": "oran_berry"
+    }
+  ]
+}

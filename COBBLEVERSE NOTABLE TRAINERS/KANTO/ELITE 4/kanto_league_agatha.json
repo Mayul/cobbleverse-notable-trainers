@@ -1,0 +1,182 @@
+{
+  "name": "Agatha",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 4
+    }
+  ],
+  "team": [
+    {
+      "species": "banette",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "quiet",
+      "ability": "insomnia",
+      "moveset": [
+        "suckerpunch",
+        "shadowball",
+        "dazzlinggleam",
+        "gunkshot"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "wise_glasses"
+    },
+    {
+      "species": "spiritomb",
+      "gender": "GENDERLESS",
+      "level": 85,
+      "nature": "timid",
+      "ability": "infiltrator",
+      "moveset": [
+        "shadowball",
+        "hiddenpower",
+        "rocktomb",
+        "psyshock"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "black_glasses"
+    },
+    {
+      "species": "dusknoir",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "rash",
+      "ability": "pressure",
+      "moveset": [
+        "darkpulse",
+        "leechlife",
+        "shadowball",
+        "destinybond"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "fluttermane",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "adamant",
+      "ability": "protosynthesis",
+      "moveset": [
+        "dazzlinggleam",
+        "psybeam",
+        "phantomforce",
+        "darkpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "houndstone",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "playrough",
+        "phantomforce",
+        "bulldoze",
+        "psychicfangs"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "sludgewave",
+        "nastyplot",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "expert_belt"
+    }
+  ]
+}

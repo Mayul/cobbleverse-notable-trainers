@@ -1,0 +1,155 @@
+{
+  "name": "Furio",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "sawk",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "brickbreak",
+        "closecombat",
+        "rockslide",
+        "thunderpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "def": 130,
+        "atk": 130
+      },
+      "heldItem": "black_belt"
+    },
+    {
+      "species": "throh",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "brave",
+      "ability": "guts",
+      "moveset": [
+        "vitalthrow",
+        "icepunch",
+        "fling",
+        "stompingtantrum"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 130,
+        "spd": 120,
+        "atk": 120
+      },
+      "heldItem": "iron_ball"
+    },
+    {
+      "species": "hariyama",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "forcepalm",
+        "rocktomb",
+        "earthquake",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 120,
+        "atk": 140,
+        "spd": 130
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "primeape",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": [
+        "seismictoss",
+        "thief",
+        "brickbreak",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 150,
+        "spd": 120,
+        "spe": 150
+      },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "poliwrath",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "adamant",
+      "ability": "waterabsorb",
+      "moveset": [
+        "drainpunch",
+        "surf",
+        "poisonjab",
+        "rocktomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 200,
+        "def": 100,
+        "spe": 100
+      },
+      "heldItem": "assault_vest"
+    }
+  ]
+}

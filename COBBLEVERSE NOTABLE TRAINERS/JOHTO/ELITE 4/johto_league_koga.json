@@ -1,0 +1,185 @@
+{
+  "name": "Koga",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin":80.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 5
+    }
+  ],
+  "team": [
+    {
+      "species": "naganadel",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "timid",
+      "ability": "plus",
+      "moveset": [
+        "flamethrower",
+        "dragonpulse",
+        "sludgewave",
+        "darkpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "def": 252,
+        "spd": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "beedrill",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "sassy",
+      "ability": "adaptability",
+      "moveset": [
+        "drillrun",
+        "xscissor",
+        "gigadrain",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 6,
+        "atk": 252
+      },
+      "heldItem": "focus_sash",
+      "aspects": [
+        "mega"
+      ]
+    },
+    {
+      "species": "crobat",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "mild",
+      "ability": "infiltrator",
+      "moveset": [
+        "crosspoison",
+        "steelwing",
+        "shadowball",
+        "heatwave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 6,
+        "spa": 252,
+        "hp": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "skuntank",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "brave",
+      "ability": "stench",
+      "moveset": [
+        "crunch",
+        "shadowclaw",
+        "poisonjab",
+        "playrough"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spd": 252,
+        "spe": 252
+      },
+      "heldItem": "air_balloon"
+    },
+    {
+      "species": "venomoth",
+      "gender": "FEMALE",
+      "level": 80,
+      "nature": "modest",
+      "ability": "tintedlens",
+      "moveset": [
+        "sludgebomb",
+        "uturn",
+        "bugbuzz",
+        "gigadrain"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "def": 252,
+        "spd": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "toxicroak",
+      "gender": "MALE",
+      "level": 80,
+      "nature": "impish",
+      "ability": "poisontouch",
+      "moveset": [
+        "throatchop",
+        "icepunch",
+        "earthquake",
+        "toxic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spd": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Alice",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 4
+    }
+  ],
+  "team": [
+    {
+      "species": "altaria",
+      "gender": "FEMALE",
+      "level": 52,
+      "nature": "modest",
+      "ability": "naturalcure",
+      "moveset": [
+        "fly",
+        "playrough",
+        "flamethrower",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "hp": 6,
+        "spe": 252
+      },
+      "heldItem": "mega_showdown:altarianite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "tropius",
+      "gender": "FEMALE",
+      "level": 53,
+      "nature": "gentle",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sunnyday",
+        "gigadrain",
+        "stompingtantrum",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "def": 252
+      },
+      "heldItem": "miracle_seed"
+    },
+    {
+      "species": "skarmory",
+      "gender": "MALE",
+      "level": 56,
+      "nature": "hasty",
+      "ability": "sturdy",
+      "moveset": [
+        "ironhead",
+        "darkpulse",
+        "aerialace",
+        "bravebird"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spd": 252,
+        "spe": 6
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "pelipper",
+      "gender": "MALE",
+      "level": 53,
+      "nature": "modest",
+      "ability": "raindish",
+      "moveset": [
+        "raindance",
+        "hydropump",
+        "fly",
+        "seedbomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      
+      "heldItem": "scope_lens"
+    },
+        {
+      "species": "noctowl",
+      "gender": "MALE",
+      "level": 54,
+      "nature": "naughty",
+      "ability": "tintedlens",
+      "moveset": [
+        "extrasensory",
+        "shadowball",
+        "hypervoice",
+        "aircutter"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spd": 6,
+        "spa": 252,
+        "def": 252
+      },
+      
+      "heldItem": "focus_sash"
+    }
+  ]
+}

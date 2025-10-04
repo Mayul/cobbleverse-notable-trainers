@@ -1,0 +1,130 @@
+{
+  "name": "Lt. Surge",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "raichu",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "psyshock",
+        "thunderpunch",
+        "irontail",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 24,
+        "atk": 16,
+        "spa": 40,
+        "spe": 252
+      },
+      "heldItem": "wise_glasses"
+    },
+    {
+      "species": "magnezone",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "spark",
+        "thundershock",
+        "gyroball",
+        "barrier"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "spa": 100,
+        "spe": 4
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "electabuzz",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "relaxed",
+      "ability": "static",
+      "moveset": [
+        "electroball",
+        "thundershock",
+        "discharge",
+        "quickattack"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 100,
+        "spa": 100,
+        "spe": 40
+      },
+      "heldItem": "quick_claw"
+    },
+    {
+      "species": "boltund",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "thunderfang",
+        "firefang",
+        "icefang",
+        "psychicfangs"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "atk": 100,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    }
+  ]
+}

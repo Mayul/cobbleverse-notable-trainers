@@ -1,0 +1,155 @@
+{
+  "name": "Jasmine",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "bronzong",
+      "gender": "MALE",
+      "level": 59,
+      "nature": "bold",
+      "ability": "heatproof",
+      "moveset": [
+        "rockslide",
+        "psychic",
+        "grassknot",
+        "ironhead"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "atk": 4
+      },
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "steelix",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "flashcannon",
+        "earthquake",
+        "darkpulse",
+        "icefang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spd": 4,
+        "atk": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "metagross",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "calm",
+      "ability": "clearbody",
+      "moveset": [
+        "meteormash",
+        "zenheadbutt",
+        "rockslide",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "skarmory",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "rocktomb",
+        "steelwing",
+        "darkpulse",
+        "aerialace"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 252,
+        "hp": 4
+      },
+      "heldItem": "choice_band"
+    },
+    {
+      "species": "magnezone",
+      "gender": "MALE",
+      "level": 59,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "thunderwave",
+        "shockwave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spe": 4
+      },
+      "heldItem": "shell_bell"
+    }
+  ]
+}

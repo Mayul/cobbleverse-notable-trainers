@@ -1,0 +1,133 @@
+{
+  "name": "Fiammetta",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "magcargo",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "adamant",
+      "ability": "flamebody",
+      "moveset": [
+        "mudshot",
+        "burningjealousy",
+        "gyroball",
+        "reflect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "hp": 6,
+        "spe": 252
+      },
+      "heldItem": "weakness_policy"
+    },
+    {
+      "species": "houndoom",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "brave",
+      "ability": "earlybird",
+      "moveset": [
+        "thunderfang",
+        "trailblaze",
+        "flamethrower",
+        "sludgebomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 30,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "mega_showdown:houndoominite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "camerupt",
+      "gender": "MALE",
+      "level": 42,
+      "nature": "timid",
+      "ability": "angerpoint",
+      "moveset": [
+        "flashcannon",
+        "highhorsepower",
+        "lashout",
+        "temperflare"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 30
+      },
+      "evs": {
+        "def": 252,
+        "spd": 252,
+        "hp": 6
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "rapidash",
+      "gender": "FEMALE",
+      "level": 41,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "smartstrike",
+        "flamethrower",
+        "poisonjab",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "def": 6,
+        "spd": 252
+      },
+      "heldItem": "life_orb"
+    }
+  ]
+}

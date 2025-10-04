@@ -1,0 +1,128 @@
+{
+  "name": "Petra",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 1
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "rockthrow",
+        "bulldoze",
+        "thunderpunch",
+        "flamethrower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 92,
+        "spe": 80,
+        "def": 92
+      },
+      "heldItem": "oran_berry"
+    },
+    {
+      "species": "onix",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "smackdown",
+        "earthquake",
+        "irontail",
+        "facade"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 124,
+        "spe": 100,
+        "atk": 252
+      },
+      "heldItem": "oran_berry"
+    },
+    {
+      "species": "omanyte",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "modest",
+      "ability": "shellarmor",
+      "moveset": [
+        "watergun",
+        "icebeam",
+        "ancientpower",
+        "surf"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 180,
+        "spe": 80,
+        "atk": 80
+      },
+      "heldItem": "oran_berry"
+    },
+    {
+      "species": "nosepass",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "quiet",
+      "ability": "magnetpull",
+      "moveset": [
+        "powergem",
+        "thunderbolt",
+        "earthpower",
+        "terablast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "atk": 6
+      },
+      "heldItem": "oran_berry"
+    }
+  ]
+}

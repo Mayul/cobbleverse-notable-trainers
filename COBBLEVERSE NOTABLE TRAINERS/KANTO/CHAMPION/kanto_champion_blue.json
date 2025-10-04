@@ -1,0 +1,179 @@
+{
+  "name": "Blue",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 6
+    }
+  ],
+  "team": [
+    {
+      "species": "zapdos",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "mild",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "aircutter",
+        "thunderbolt",
+        "ancientpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "articuno",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "ancientpower",
+        "aerialace",
+        "waterpulse",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "moltres",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "scorchingsands",
+        "flamethrower",
+        "aerialace",
+        "bravebird"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "mew",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "synchronize",
+      "moveset": [
+        "pollenpuff",
+        "crunch",
+        "temperflare",
+        "psychicnoise"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "air_balloon"
+    },
+    {
+      "species": "venusaur",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "sludgebomb",
+        "earthpower",
+        "energyball",
+        "gigadrain"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "shell_bell"
+    },
+    {
+      "species": "ditto",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "jolly",
+      "ability": "imposter",
+      "moveset": [
+        "transform"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "spe": 252
+      },
+      "heldItem": "choice_scarf"
+    }
+  ]
+}

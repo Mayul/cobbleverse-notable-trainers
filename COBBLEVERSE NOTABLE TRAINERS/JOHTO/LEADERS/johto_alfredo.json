@@ -1,0 +1,155 @@
+{
+  "name": "Alfredo",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 4
+    }
+  ],
+  "team": [
+    {
+      "species": "mamoswine",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "icefang",
+        "avalanche"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spe": 252,
+        "atk": 252,
+        "hp": 4
+      },
+      "heldItem": "shell_bell"
+    },
+    {
+      "species": "vanilluxe",
+      "gender": "MALE",
+      "level": 64,
+      "nature": "modest",
+      "ability": "snowwarning",
+      "moveset": [
+        "avalanche",
+        "iciclecrash",
+        "weatherball",
+        "astonish"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spd": 4
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "avalugg",
+      "gender": "MALE",
+      "level": 63,
+      "nature": "brave",
+      "ability": "icebody",
+      "moveset": [
+        "icefang",
+        "stompingtantrum",
+        "surf",
+        "hail"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spd": 252,
+        "atk": 4
+      },
+      "heldItem": "shell_bell"
+    },
+    {
+      "species": "dewgong",
+      "gender": "MALE",
+      "level": 65,
+      "nature": "modest",
+      "ability": "icebody",
+      "moveset": [
+        "hail",
+        "waterpulse",
+        "blizzard",
+        "irontail"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "def": 252,
+        "hp": 4
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "jynx",
+      "gender": "FEMALE",
+      "level": 64,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "drainpunch",
+        "psychic",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spe": 4
+      },
+      "heldItem": "shell_bell"
+    }
+  ]
+}

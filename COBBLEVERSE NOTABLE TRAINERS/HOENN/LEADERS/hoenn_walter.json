@@ -1,0 +1,133 @@
+{
+  "name": "Walter",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "toxtricity",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "modest",
+      "ability": "technician",
+      "moveset": [
+        "thunderpunch",
+        "trailblaze",
+        "gyroball",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 252,
+        "spd": 252,
+        "spe": 6
+      },
+      "heldItem": "focus_sash"
+    },
+        {
+      "species": "zebstrika",
+      "gender": "MALE",
+      "level": 36,
+      "nature": "hardy",
+      "ability": "sapsipper",
+      "moveset": [
+        "spark",
+        "trailblaze",
+        "highhorsepower",
+        "smartstrike"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 6,
+        "spd": 252
+      },
+      "heldItem": "air_balloon"
+    },
+    {
+      "species": "manectric",
+      "gender": "MALE",
+      "level": 35,
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "shockwave",
+        "thunderbolt",
+        "flamethrower",
+        "irontail"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "spd": 120,
+        "spe": 252
+      },
+      "heldItem": "mega_showdown:manectite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "ampharos",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "quirky",
+      "ability": "static",
+      "moveset": [
+        "icepunch",
+        "thunderbolt",
+        "powergem",
+        "dazzlinggleam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 6,
+        "spa": 252
+      },
+      "heldItem": "leftovers"
+    }
+  ]
+}

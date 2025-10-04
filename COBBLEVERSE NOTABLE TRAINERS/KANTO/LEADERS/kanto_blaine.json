@@ -1,0 +1,181 @@
+{
+  "name": "Blaine",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 4
+    }
+  ],
+  "team": [
+    {
+      "species": "torkoal",
+      "gender": "MALE",
+      "level": 57,
+      "nature": "quiet",
+      "ability": "whitesmoke",
+      "moveset": [
+        "bodypress",
+        "flamewheel",
+        "zenheadbutt",
+        "earthpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 4,
+        "spa": 252
+      },
+      "heldItem": "covert_cloak"
+    },
+    {
+      "species": "arcanine",
+      "gender": "MALE",
+      "level": 59,
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "thunderfang",
+        "playrough",
+        "flameburst",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "charcoal_stick"
+    },
+    {
+      "species": "magmortar",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "brave",
+      "ability": "flamebody",
+      "moveset": [
+        "brickbreak",
+        "earthquake",
+        "flamethrower",
+        "thunderpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "expert_belt"
+    },
+    {
+      "species": "typhlosion",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "eruption",
+        "flamethrower",
+        "hiddenpower",
+        "focusblast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "def": 30,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "shell_bell"
+    },
+    {
+      "species": "magcargo",
+      "gender": "MALE",
+      "level": 58,
+      "nature": "brave",
+      "ability": "magmaarmor",
+      "moveset": [
+        "ember",
+        "flamethrower",
+        "ancientpower",
+        "lavaplume"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "charizard",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "flamethrower",
+        "airslash",
+        "solarbeam",
+        "dragonpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "charcoal_stick"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Sandra",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 5
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "dragonpulse",
+        "dragoncheer",
+        "icefang"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 4,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "kingdra",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "watergun",
+        "twister",
+        "flashcannon",
+        "dragonpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "spe": 4
+      },
+      "heldItem": "dragon_fang"
+    },
+    {
+      "species": "dragonite",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "innerfocus",
+      "moveset": [
+        "outrage",
+        "dragonrush",
+        "dragontail",
+        "thunderpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "weakness_policy"
+    },
+    {
+      "species": "altaria",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "modest",
+      "ability": "naturalcure",
+      "moveset": [
+        "dazzlinggleam",
+        "dragonpulse",
+        "steelwing",
+        "flamethrower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spd": 252,
+        "spa": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "garchomp",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "roughskin",
+      "moveset": [
+        "earthquake",
+        "irontail",
+        "dragonclaw",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "hp": 4,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "salamence",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "timid",
+      "ability": "moxie",
+      "moveset": [
+        "flamethrower",
+        "steelwing",
+        "brickbreak",
+        "dragonpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "atk": 252
+      },
+      "heldItem": "focus_sash"
+    }
+  ]
+}

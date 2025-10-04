@@ -1,0 +1,188 @@
+{
+  "name": "Ester",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin":0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 5
+    }
+  ],
+  "team": [
+    {
+      "species": "dusknoir",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "phantomforce",
+        "darkpulse",
+        "psychic",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spd": 6,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "chandelure",
+      "gender": "FEMALE",
+      "level": 82,
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "terablast",
+        "psychic",
+        "shadowball",
+        "fireblast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spe": 252,
+        "hp": 6,
+        "def": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "banette",
+      "gender": "FEMALE",
+      "level": 82,
+      "nature": "hardy",
+      "ability": "cursedbody",
+      "moveset": [
+        "phantomforce",
+        "suckerpunch",
+        "facade",
+        "dazzlinggleam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spe": 252,
+        "spd": 6
+      },
+      "heldItem": "mega_showdown:banettite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "drifblim",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "timid",
+      "ability": "aftermath",
+      "moveset": [
+        "airslash",
+        "shadowball",
+        "psychic",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 6,
+        "spd": 252,
+        "def": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "gengar",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "modest",
+      "ability": "cursedbody",
+      "moveset": [
+        "dazzlinggleam",
+        "sludgewave",
+        "shadowball",
+        "drainpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 6,
+        "def": 252,
+        "spd": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "trevenant",
+      "shiny": "true",
+      "gender": "MALE",
+      "level": 82,
+      "nature": "impish",
+      "ability": "naturalcure",
+      "moveset": [
+        "woodhammer",
+        "phantomforce",
+        "earthquake",
+        "knockoff"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spd": 252,
+        "spe": 252
+      },
+      "heldItem": "choice_specs"
+    }
+  ]
+}

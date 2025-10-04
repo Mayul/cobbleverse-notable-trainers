@@ -1,0 +1,187 @@
+{
+  "name": "Fosco",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin":77.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 5
+    }
+  ],
+  "team": [
+    {
+      "species": "mightyena",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "adamant",
+      "ability": "quickfeet",
+      "moveset": [
+        "playrough",
+        "firefang",
+        "psychicfangs",
+        "throatchop"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 252,
+        "spe": 6,
+        "spd": 252
+      },
+      "heldItem": "scope_lens"
+    },
+    {
+      "species": "shiftry",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "quiet",
+      "ability": "chlorophyll",
+      "moveset": [
+        "extrasensory",
+        "gigadrain",
+        "darkpulse",
+        "airslash"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 6,
+        "spd": 252,
+        "def": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "zoroark",
+      "gender": "FEMALE",
+      "level": 77,
+      "nature": "hardy",
+      "ability": "illusion",
+      "moveset": [
+        "flamethrower",
+        "extrasensory",
+        "sludgebomb",
+        "suckerpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spd": 252,
+        "def": 252
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "crawdaunt",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "timid",
+      "ability": "shellarmor",
+      "moveset": [
+        "knockoff",
+        "crabhammer",
+        "metalclaw",
+        "sludgewave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spd": 252,
+        "spa": 252
+      },
+      "heldItem": "scope_lens"
+    },
+    {
+      "species": "zangoose",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "timid",
+      "ability": "immunity",
+      "moveset": [
+        "zenheadbutt",
+        "lowsweep",
+        "rocktomb",
+        "dig"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 6,
+        "spd": 252,
+        "def": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "absol",
+      "gender": "MALE",
+      "level": 77,
+      "nature": "adamant",
+      "ability": "superluck",
+      "moveset": [
+        "knockoff",
+        "zenheadbutt",
+        "aerialace",
+        "playrough"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "mega_showdown:absolite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    }
+  ]
+}

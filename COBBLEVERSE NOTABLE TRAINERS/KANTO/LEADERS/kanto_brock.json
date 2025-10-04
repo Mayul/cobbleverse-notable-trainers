@@ -1,0 +1,122 @@
+{
+  "name": "Brock",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "geodude",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "protect",
+        "rocktomb",
+        "rockthrow",
+        "bulldoze"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "spe": 40
+      }
+    },
+    {
+      "species": "bonsly",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "mild",
+      "ability": "rockhead",
+      "moveset": [
+        "block",
+        "rockthrow",
+        "flail",
+        "copycat"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 80,
+        "spe": 40
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "onix",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "rocktomb",
+        "bulldoze",
+        "sleeptalk",
+        "rockslide"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "spe": 40
+      },
+      "heldItem": "rocky_helmet"
+    },
+    {
+      "species": "cranidos",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "impish",
+      "ability": "moldbreaker",
+      "moveset": [
+        "takedown",
+        "rocktomb",
+        "rocksmash",
+        "headbutt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "spe": 40
+      }
+    }
+  ]
+}

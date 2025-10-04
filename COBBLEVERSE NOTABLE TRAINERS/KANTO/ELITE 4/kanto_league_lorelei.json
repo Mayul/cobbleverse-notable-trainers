@@ -1,0 +1,182 @@
+{
+  "name": "Lorelei",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 4
+    }
+  ],
+  "team": [
+    {
+      "species": "glastrier",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "brave",
+      "ability": "chillingneigh",
+      "moveset": [
+        "iciclecrash",
+        "stompingtantrum",
+        "closecombat",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "heldItem": "covert_cloak"
+    },
+    {
+      "species": "froslass",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "timid",
+      "ability": "snowcloak",
+      "moveset": [
+        "snowscape",
+        "thunderwave",
+        "hex",
+        "destinybond"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "jynx",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "timid",
+      "ability": "dryskin",
+      "moveset": [
+        "psychic",
+        "icebeam",
+        "focusblast",
+        "hail"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "weakness_policy"
+    },
+    {
+      "species": "mamoswine",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "earthquake",
+        "icebeam",
+        "knockoff",
+        "icywind"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "shell_bell"
+    },
+    {
+      "species": "lapras",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "timid",
+      "ability": "drizzle",
+      "moveset": [
+        "icebeam",
+        "originpulse",
+        "bodyslam",
+        "confuseray"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "weavile",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "iceshard",
+        "hydropump",
+        "surf",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "name": "Tell",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 5
+    }
+  ],
+  "team": [
+    {
+      "species": "solrock",
+      "gender": "GENDERLESS",
+      "level": 61,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "gyroball",
+        "shadowball",
+        "psychic",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spd": 252,
+        "spa": 252,
+        "hp": 6
+      },
+      "heldItem": "scope_lens"
+    },
+    {
+      "species": "lunatone",
+      "gender": "GENDERLESS",
+      "level": 62,
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "moonblast",
+        "icebeam",
+        "bulldoze",
+        "grassknot"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 252,
+        "spa": 252,
+        "spe": 6
+      },
+      "heldItem": "choice_scarf"
+    },
+    {
+      "species": "gallade",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "brave",
+      "ability": "justified",
+      "moveset": [
+        "drainingkiss",
+        "sacredsword",
+        "psychocut",
+        "nightshade"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "def": 6
+      },
+      "heldItem": "mega_showdown:galladite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 62,
+      "nature": "modest",
+      "ability": "synchronize",
+      "moveset": [
+        "lifedew",
+        "mistyterrain",
+        "moonblast",
+        "shadowball"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spe": 252,
+        "def": 252,
+        "hp": 6
+      },
+      "heldItem": "mega_showdown:gardevoirite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "claydol",
+      "gender": "GENDERLESS",
+      "level": 62,
+      "nature": "mild",
+      "ability": "levitate",
+      "moveset": [
+        "earthpower",
+        "extrasensory",
+        "substitute",
+        "dazzlinggleam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "atk": 4
+      },
+      "heldItem": "choice_scarf"
+    },
+        {
+      "species": "gothitelle",
+      "gender": "FEMALE",
+      "level": 61,
+      "nature": "adamant",
+      "ability": "competitive",
+      "moveset": [
+        "zenheadbutt",
+        "drainpunch",
+        "darkpulse",
+        "shadowball"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "spe": 252,
+        "def": 6
+      },
+      "heldItem": "leftovers"
+    }
+  ]
+}

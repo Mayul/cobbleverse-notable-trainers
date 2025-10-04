@@ -1,0 +1,192 @@
+{
+  "name": "Adriano",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 5
+    }
+  ],
+  "team": [
+    {
+      "species": "gyarados",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "waterfall",
+        "earthquake",
+        "dragondance",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "hp": 4,
+        "spe": 252
+      },
+      "heldItem": "mega_showdown:gyaradosite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "tentacruel",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "timid",
+      "ability": "clearbody",
+      "moveset": [
+        "surf",
+        "sludgebomb",
+        "toxicspikes",
+        "thief"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spa": 252,
+        "spe": 4
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "milotic",
+      "gender": "FEMALE",
+      "level": 70,
+      "nature": "modest",
+      "ability": "marvelscale",
+      "moveset": [
+        "surf",
+        "icebeam",
+        "recover",
+        "dragontail"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spe": 6,
+        "spa": 252
+      },
+      "heldItem": "weakness_policy"
+    },
+    {
+      "species": "swampert",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "adamant",
+      "ability": "damp",
+      "moveset": [
+        "waterfall",
+        "knockoff",
+        "poisonjab",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 6,
+        "spe": 252,
+        "atk": 252
+      },
+      "heldItem": "mega_showdown:swampertite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "ludicolo",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "timid",
+      "ability": "raindish",
+      "moveset": [
+        "raindance",
+        "disarmingvoice",
+        "energyball",
+        "surf"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "hp": 4,
+        "def": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "wailord",
+      "gender": "MALE",
+      "level": 70,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "earthquake",
+        "waterspout",
+        "avalanche",
+        "waterpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 6,
+        "def": 252,
+        "spd": 252
+      },
+      "heldItem": "leftovers"
+    }
+  ]
+}

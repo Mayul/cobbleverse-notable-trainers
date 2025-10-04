@@ -1,0 +1,128 @@
+{
+  "name": "Chiara",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "miltank",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "brave",
+      "ability": "scrappy",
+      "moveset": [
+        "zenheadbutt",
+        "stomp",
+        "shadowball",
+        "milkdrink"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 252,
+        "spe": 4
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "clefairy",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "brave",
+      "ability": "cutecharm",
+      "moveset": [
+        "disarmingvoice",
+        "waterpulse",
+        "shadowball",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 10,
+        "spe": 120,
+        "atk": 120
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "lopunny",
+      "gender": "FEMALE",
+      "level": 34,
+      "nature": "careful",
+      "ability": "cutecharm",
+      "moveset": [
+        "doublekick",
+        "thunderbolt",
+        "shadowball",
+        "dig"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spe": 80,
+        "atk": 80
+      },
+      "heldItem": "shell_bell"
+    },
+    {
+      "species": "lickitung",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "careful",
+      "ability": "owntempo",
+      "moveset": [
+        "lick",
+        "stomp",
+        "shadowball",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "def": 100,
+        "atk": 252
+      },
+      "heldItem": "focus_sash"
+    }
+  ]
+}

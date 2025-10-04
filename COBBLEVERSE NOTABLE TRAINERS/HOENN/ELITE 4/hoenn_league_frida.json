@@ -1,0 +1,187 @@
+{
+  "name": "Frida",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 5
+    }
+  ],
+  "team": [
+    {
+      "species": "glalie",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "jolly",
+      "ability": "icebody",
+      "moveset": [
+        "bulldoze",
+        "waterpulse",
+        "ironhead",
+        "darkpulse"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 6,
+        "atk": 252,
+        "def": 252
+      },
+      "heldItem": "mega_showdown:glalitite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "froslass",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "jolly",
+      "ability": "cursedbody",
+      "moveset": [
+        "drainingkiss",
+        "shadowball",
+        "avalanche",
+        "thunderbolt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "beartic",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "adamant",
+      "ability": "slushrush",
+      "moveset": [
+        "icefang",
+        "rockslide",
+        "brickbreak",
+        "xscissor"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 6,
+        "def": 252,
+        "spd": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "abomasnow",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "hardy",
+      "ability": "snowwarning",
+      "moveset": [
+        "woodhammer",
+        "bodypress",
+        "icespinner",
+        "stompingtantrum"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "def": 252,
+        "spa": 6
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "aurorus",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "jolly",
+      "ability": "refrigerate",
+      "moveset": [
+        "round",
+        "ancientpower",
+        "aurorabeam",
+        "bulldoze"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "baxcalibur",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "adamant",
+      "ability": "icebody",
+      "moveset": [
+        "dragonclaw",
+        "icefang",
+        "aerialace",
+        "ironhead"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "def": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    }
+  ]
+}

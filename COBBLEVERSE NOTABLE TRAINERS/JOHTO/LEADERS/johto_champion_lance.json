@@ -1,0 +1,185 @@
+ {
+  "name": "Lance",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 5
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 5
+    }
+  ],
+  "team": [
+    {
+      "species": "aerodactyl",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "mild",
+      "ability": "pressure",
+      "moveset": [
+        "ironhead",
+        "dragonpulse",
+        "flamethrower",
+        "bulldoze"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "expert_belt"
+    },
+    {
+      "species": "gyarados",
+      "shiny": "true",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "moxie",
+      "moveset": [
+        "temperflare",
+        "earthquake",
+        "waterfall",
+        "thunder"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash",
+      "aspects": [
+        "mega"
+      ]
+    },
+    {
+      "species": "baxcalibur",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "thermalexchange",
+      "moveset": [
+        "zenheadbutt",
+        "earthquake",
+        "outrage",
+        "bodypress"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "spe": 6
+      },
+      "heldItem": "destiny_knot"
+    },
+    {
+      "species": "salamence",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "moxie",
+      "moveset": [
+        "ironhead",
+        "thunderfang",
+        "dragonclaw",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "dragonite",
+      "gender": "MALE",
+      "level": 100,
+      "nature": "calm",
+      "ability": "multiscale",
+      "moveset": [
+        "ironhead",
+        "flamethrower",
+        "icebeam",
+        "dragonclaw"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spd": 252
+      },
+      "heldItem": "expert_belt"
+    },
+    {
+      "species": "lugia",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "sassy",
+      "ability": "multiscale",
+      "moveset": [
+        "dragonpulse",
+        "bulldoze",
+        "psychic",
+        "steelwing"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 252,
+        "hp": 6
+      },
+      "heldItem": "leftovers"
+    }
+  ]
+}

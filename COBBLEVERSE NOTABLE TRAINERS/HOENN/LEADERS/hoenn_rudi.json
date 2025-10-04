@@ -1,0 +1,133 @@
+{
+  "name": "Rudi",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 1
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "conkeldurr",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "lowsweep",
+        "knockoff",
+        "earthquake",
+        "icepunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 4,
+        "spe": 252,
+        "spd": 150
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "hariyama",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "closecombat",
+        "knockoff",
+        "facade",
+        "bulletpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 100,
+        "spe": 100,
+        "atk": 100
+      },
+      "heldItem": "oran_berry"
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "adamant",
+      "ability": "moxie",
+      "moveset": [
+        "stoneedge",
+        "brickbreak",
+        "hornattack",
+        "bulldoze"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spe": 100,
+        "atk": 100
+      },
+      "heldItem": "mega_showdown:heracronite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "machamp",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "stoneedge",
+        "brickbreak",
+        "seismictoss",
+        "knockoff"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 6,
+        "spe": 100,
+        "atk": 100
+      },
+      "heldItem": "leftovers"
+    }
+  ]
+}

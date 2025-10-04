@@ -1,0 +1,189 @@
+ {
+  "name": "Rocco",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleFormat": "GEN_9_DOUBLES",
+  "battleRules": {
+    "maxItemUses": 6
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 6
+    }
+  ],
+  "team": [
+    {
+      "species": "kyogre",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "mild",
+      "ability": "drizzle",
+      "moveset": [
+        "ironhead",
+        "waterfall",
+        "earthquake",
+        "ancientpower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "groudon",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "drought",
+      "moveset": [
+        "firepunch",
+        "thunderpunch",
+        "rocktomb",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "air_balloon"
+    },
+    {
+      "species": "latias",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "alluringvoice",
+        "grassknot",
+        "psyshock",
+        "aurasphere"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252,
+        "spe": 6
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "latios",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "energyball",
+        "psychicnoise",
+        "dragonpulse",
+        "fly"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "def": 252
+      },
+      "heldItem": "life_orb"
+    },
+    {
+      "species": "deoxys",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "calm",
+      "ability": "pressure",
+      "moveset": [
+        "drainpunch",
+        "poisonjab",
+        "thunderpunch",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "def": 252,
+        "spd": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "metagross",
+      "shiny": "true",
+      "gender": "GENDERLESS",
+      "level": 100,
+      "nature": "timid",
+      "ability": "clearbody",
+      "moveset": [
+        "ironhead",
+        "earthquake",
+        "bodypress",
+        "shadowclaw"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 252,
+        "hp": 6
+      },
+      "heldItem": "mega_showdown:metagrossite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    }
+  ]
+}

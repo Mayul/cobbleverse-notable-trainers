@@ -1,0 +1,112 @@
+{
+  "name": "Misty",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "horsea",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "jolly",
+      "ability": "sniper",
+      "moveset": [
+        "flashcannon",
+        "waterpulse",
+        "blizzard",
+        "waterfall"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "starmie",
+      "gender": "GENDERLESS",
+      "level": 25,
+      "nature": "timid",
+      "ability": "analytic",
+      "moveset": [
+        "psyshock",
+        "surf",
+        "psywave",
+        "watergun"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": "twisted_spoon"
+    },
+    {
+      "species": "psyduck",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "bold",
+      "ability": "cloudnine",
+      "moveset": [
+        "watergun",
+        "confusion",
+        "aquatail",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 29,
+        "def": 29,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "goldeen",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "hasty",
+      "ability": "swiftswim",
+      "moveset": [
+        "waterpulse",
+        "peck",
+        "aquaring",
+        "hornattack"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 29,
+        "def": 29,
+        "spa": 30,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {},
+      "heldItem": "scope_lens"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Pino",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin":75.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 4
+    }
+  ],
+  "team": [
+    {
+      "species": "xatu",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "modest",
+      "ability": "synchronize",
+      "moveset": [
+        "airslash",
+        "dazzlinggleam",
+        "shadowball",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spd": 6,
+        "spa": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "gardevoir",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "modest",
+      "ability": "trace",
+      "moveset": [
+        "psychic",
+        "shadowball",
+        "moonblast",
+        "drainingkiss"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "choice_specs"
+    },
+    {
+      "species": "grumpig",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "calm",
+      "ability": "thickfat",
+      "moveset": [
+        "focuspunch",
+        "psychic",
+        "shadowball",
+        "powergem"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "slowking",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "timid",
+      "ability": "regenerator",
+      "moveset": [
+        "zenheadbutt",
+        "earthquake",
+        "scald",
+        "surf"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spd": 252,
+        "spa": 252
+      },
+      "heldItem": "kings_rock"
+    },
+    {
+      "species": "exeggutor",
+      "gender": "MALE",
+      "level": 75,
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "gigadrain",
+        "psychic",
+        "dualchop",
+        "sludgebomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spd": 252,
+        "def": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "indeedee",
+      "gender": "FEMALE",
+      "level": 75,
+      "nature": "bold",
+      "ability": "synchronize",
+      "moveset": [
+        "dazzlinggleam",
+        "shadowball",
+        "psyshock",
+        "mysticalfire"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    }
+  ]
+}

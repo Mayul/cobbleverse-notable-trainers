@@ -1,0 +1,160 @@
+{
+  "name": "Norman",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "spinda",
+      "gender": "MALE",
+      "level": 48,
+      "nature": "bold",
+      "ability": "contrary",
+      "moveset": [
+        "psychic",
+        "shockwave",
+        "uproar",
+        "shadowball"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "def": 252,
+        "spa": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "slaking",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "timid",
+      "ability": "truant",
+      "moveset": [
+        "zenheadbutt",
+        "bodyslam",
+        "rocktomb",
+        "seedbomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 6,
+        "spd": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "kangaskhan",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "jolly",
+      "ability": "scrappy",
+      "moveset": [
+        "aerialace",
+        "earthquake",
+        "strength",
+        "drainpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "def": 252,
+        "spe": 252
+      },
+      "heldItem": "mega_showdown:kangaskhanite",
+      "gimmicks": {
+        "dynamax": false,
+        "gmax": false,
+        "mega":true
+      }
+    },
+    {
+      "species": "blissey",
+      "gender": "FEMALE",
+      "level": 48,
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "disarmingvoice",
+        "lifedew",
+        "covet",
+        "sing"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spa": 252,
+        "def": 252,
+        "spe": 6
+      },
+      "heldItem": "shell_bell"
+    },
+    {
+      "species": "linoone",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "adamant",
+      "ability": "quickfeet",
+      "moveset": [
+        "facade",
+        "shadowclaw",
+        "dig",
+        "protect"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 6,
+        "spd": 252,
+        "def": 252
+      },
+      "heldItem": "focus_sash"
+    }
+  ]
+}

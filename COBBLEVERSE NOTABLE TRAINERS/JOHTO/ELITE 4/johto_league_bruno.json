@@ -1,0 +1,182 @@
+{
+  "name": "Bruno",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 4
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 4
+    }
+  ],
+  "team": [
+    {
+      "species": "pangoro",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "ironhead",
+        "zenheadbutt",
+        "rockslide",
+        "drainpunch"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spd": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "machamp",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "knockoff",
+        "thunderpunch",
+        "poisonjab",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "shell_bell"
+    },
+    {
+      "species": "hitmontop",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "adamant",
+      "ability": "steadfast",
+      "moveset": [
+        "icespinner",
+        "suckerpunch",
+        "gyroball",
+        "brickbreak"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "hitmonchan",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "impish",
+      "ability": "innerfocus",
+      "moveset": [
+        "lowkick",
+        "icepunch",
+        "trailblaze",
+        "knockoff"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "spd": 252,
+        "atk": 6
+      },
+      "heldItem": "shell_bell"
+    },
+    {
+      "species": "hitmonlee",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "jolly",
+      "ability": "limber",
+      "moveset": [
+        "throatchop",
+        "highjumpkick",
+        "blazekick",
+        "reversal"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "atk": 252,
+        "spe": 252
+      },
+      "heldItem": "wide_lens"
+    },
+    {
+      "species": "lucario",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "waterpulse",
+        "flashcannon",
+        "shadowball",
+        "aurasphere"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "scope_lens"
+    }
+  ]
+}

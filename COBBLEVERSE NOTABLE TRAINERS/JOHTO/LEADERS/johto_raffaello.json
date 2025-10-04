@@ -1,0 +1,128 @@
+{
+  "name": "Raffaello",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 1
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 1
+    }
+  ],
+  "team": [
+    {
+      "species": "butterfree",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "modest",
+      "ability": "compoundeyes",
+      "moveset": [
+        "psybeam",
+        "stunspore",
+        "quickattack",
+        "bugbuzz"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "spd": 6,
+        "spe": 100,
+        "spa": 100
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "beedrill",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "jolly",
+      "ability": "sniper",
+      "moveset": [
+        "venoshock",
+        "gigadrain",
+        "furycutter",
+        "endure"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spe": 100,
+        "atk": 100
+      },
+      "heldItem": "oran_berry"
+    },
+    {
+      "species": "heracross",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "adamant",
+      "ability": "unnerve",
+      "moveset": [
+        "stoneedge",
+        "focuspunch",
+        "hornattack",
+        "bulldoze"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spe": 100,
+        "atk": 100
+      },
+      "heldItem": "leftovers"
+    },
+    {
+      "species": "scyther",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "aerialace",
+        "xscissor",
+        "thief",
+        "brickbreak"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 6,
+        "spe": 100,
+        "atk": 100
+      },
+      "heldItem": "choice_band"
+    }
+  ]
+}

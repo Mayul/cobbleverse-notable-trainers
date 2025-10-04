@@ -1,0 +1,128 @@
+{
+  "name": "Erika",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "roserade",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "adamant",
+      "ability": "poisonpoint",
+      "moveset": [
+        "dazzlinggleam",
+        "gigadrain",
+        "venoshock",
+        "energyball"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "def": 4,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "bellossom",
+      "gender": "FEMALE",
+      "level": 38,
+      "nature": "docile",
+      "ability": "chlorophyll",
+      "moveset": [
+        "toxic",
+        "gigadrain",
+        "magicalleaf",
+        "moonblast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 31,
+        "spa": 30,
+        "spd": 31,
+        "spe": 30
+      },
+      "evs": {
+        "def": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "weakness_policy"
+    },
+    {
+      "species": "victreebel",
+      "gender": "FEMALE",
+      "level": 39,
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "poisonjab",
+        "bugbite",
+        "leafstorm",
+        "gigadrain"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "def": 4,
+        "spa": 252
+      },
+      "heldItem": "poison_barb"
+    },
+    {
+      "species": "vileplume",
+      "gender": "FEMALE",
+      "level": 40,
+      "nature": "brave",
+      "ability": "chlorophyll",
+      "moveset": [
+        "gigadrain",
+        "toxic",
+        "petalblizzard",
+        "moonblast"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 30,
+        "def": 30,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "def": 4,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    }
+  ]
+}

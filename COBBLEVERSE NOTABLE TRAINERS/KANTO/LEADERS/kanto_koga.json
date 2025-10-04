@@ -1,0 +1,155 @@
+{
+  "name": "Koga",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 3
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 3
+    }
+  ],
+  "team": [
+    {
+      "species": "crobat",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "venoshock",
+        "airslash",
+        "poisonfang",
+        "astonish"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "weezing",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "mild",
+      "ability": "levitate",
+      "moveset": [
+        "spite",
+        "sludge",
+        "belch",
+        "sludgebomb"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "oran_berry"
+    },
+    {
+      "species": "venomoth",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "calm",
+      "ability": "tintedlens",
+      "moveset": [
+        "poisonfang",
+        "psychic",
+        "zenheadbutt",
+        "supersonic"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "black_sludge"
+    },
+    {
+      "species": "drapion",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "timid",
+      "ability": "battlearmor",
+      "moveset": [
+        "nightslash",
+        "crunch",
+        "poisonfang",
+        "poisongas"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    },
+    {
+      "species": "toxtricity",
+      "gender": "MALE",
+      "level": 49,
+      "nature": "timid",
+      "ability": "plus",
+      "moveset": [
+        "voltswitch",
+        "boomburst",
+        "sludgebomb",
+        "overdrive"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": "focus_sash"
+    }
+  ]
+}
